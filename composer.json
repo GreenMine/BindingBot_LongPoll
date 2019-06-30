@@ -1,0 +1,6 @@
+{
+    "require": {
+        "digitalstars/vk_api": "^2.8",
+        "ext-mysqli": "*"
+    }
+}
